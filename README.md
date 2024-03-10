@@ -1,7 +1,8 @@
 # Exercise-04c-Enemies
-
+Title: A Leap Of Faith 
+Date" March 9 2024
 ## Implementation
-Made the coins pickupable
+A tutorial and three levels, sounds, enemies, backgrounds, long levels, and unique design
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
